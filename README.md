@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Info
+
+A react app that utalises the youtube API and appends "conspiracy" to every search, just for fun. Live demo here: 
+[http://206.189.18.205/video/]
 
 ## Available Scripts
 
